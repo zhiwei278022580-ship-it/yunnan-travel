@@ -1,0 +1,10 @@
+参考图片链接（上传到 Mac 的 Claude Code 对话框中）：
+
+https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-20%2FMiniMax-M2.7%2F2056698948533359410%2F686e6df3a157a939ded4f551eb6c1b9bf3e6db4b7c527f86f8afaf4cffa4d02f..jpeg?Expires=1779333742&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=rLimn3EEleYQ8CYxkli4oIHifeE%3D
+
+请在 Mac 上直接粘贴这个链接或上传图片到 Claude Code 对话框，描述图片中地图的：
+- 背景风格（深色/浅色/卫星图/纯色）
+- 景点标记形状（圆点/星标/图标）
+- 标签样式（引线/悬浮卡片/pill标签）
+- 连线样式（曲线/直线/虚线）
+- 整体配色
